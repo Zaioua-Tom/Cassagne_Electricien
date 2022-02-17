@@ -1,0 +1,19 @@
+/*Conditions Css Générale*/
+html{
+    background-color: #000400;
+  }
+  @font-face {
+    font-family:PlayfairDisplaySC-Regular;
+    src: url(./fonts/Playfair_Display_SC/PlayfairDisplaySC-Regular.ttf);
+  }
+  .App {
+    text-align: center;
+  }
+  
+  .presentation{
+    background: linear-gradient(#FA9615, #FF6309);
+  }
+  h1{
+    color: aliceblue;
+    font-family: 'PlayfairDisplaySC-Regular';
+  }
